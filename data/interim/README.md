@@ -1,1 +1,1 @@
-Use this folder to store intermediate data that has been transformed.
+Use this folder to store processed data for each assignment.
